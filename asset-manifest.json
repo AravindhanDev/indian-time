@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/indian-time/static/js/main.e3d07a9e.chunk.js",
+    "main.js.map": "/indian-time/static/js/main.e3d07a9e.chunk.js.map",
+    "runtime-main.js": "/indian-time/static/js/runtime-main.a87bc04a.js",
+    "runtime-main.js.map": "/indian-time/static/js/runtime-main.a87bc04a.js.map",
+    "static/js/2.db7586e6.chunk.js": "/indian-time/static/js/2.db7586e6.chunk.js",
+    "static/js/2.db7586e6.chunk.js.map": "/indian-time/static/js/2.db7586e6.chunk.js.map",
+    "index.html": "/indian-time/index.html",
+    "precache-manifest.9368e42c348566b2bc53ea811d4c3fab.js": "/indian-time/precache-manifest.9368e42c348566b2bc53ea811d4c3fab.js",
+    "service-worker.js": "/indian-time/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a87bc04a.js",
+    "static/js/2.db7586e6.chunk.js",
+    "static/js/main.e3d07a9e.chunk.js"
+  ]
+}
